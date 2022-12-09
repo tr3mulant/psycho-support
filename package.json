@@ -1,0 +1,12 @@
+{
+  "name": "psycho-air-support",
+  "version": "0.0.1",
+  "description": "A Skeleton Crew Air Support experiment",
+  "license": "MIT",
+  "author": {
+    "name": "tr3mulant"
+  },
+  "scripts": {
+    "install-dependencies": "./install.sh"
+  }
+}
